@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Beaverton School District Allow
 ! Expires: 1 days (update frequency)
-! Version: 32
-! Last Updated: 04/14/2021
+! Version: 33
+! Last Updated: 11/16/2021
 @@||adobe.com
 @@||adobedtm.com
 @@||spark.adobe.com
@@ -70,3 +70,4 @@
 @@||slides.google.com
 @@||sheets.google.com
 @@||drive.google.com
+@@||canva.com
