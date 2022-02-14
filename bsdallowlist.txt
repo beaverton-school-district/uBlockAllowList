@@ -8,6 +8,7 @@
 @@||spark.adobe.com
 @@||app.gonoodle.com
 @@||beaverton.k12.or.us
+@@||www.beaverton.k12.or.us
 @@||client.portal.office.com
 @@||clientlog.portal.office.com
 @@||fastbridge.org
